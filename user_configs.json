@@ -1,0 +1,11 @@
+{
+    "repos": [
+      {
+          "url": "https://github.com/Shaun-CCGeek/edo-contact",
+          "repo_name": "edo-contact",
+          "repo_path": "./repositories/Contact_Format",
+          "should_update": true,
+          "should_read": true
+      }
+    ]
+  }
